@@ -71,8 +71,11 @@ These tables are joined into a combined view for analysis of deaths, tests, and 
 * This project focuses on data exploration and reporting in SQL.
 * The queries are written to be reusable for further analysis or dashboarding.
 
-## Repository Structure
+## Tableau Dashboard
+This project also includes a Tableau dashboard that visualises COVID-19 deaths, cases, and vaccination trends by country and over time.
+https://public.tableau.com/app/profile/charlotte.watson4244/viz/COVIDDashboard-InitialAnalysis/Dashboard1?publish=yes
 
-* SQL script with table creation and analysis queries
-* README file for project overview
-* Optional sample output or screenshots if added later
+The dashboard highlights:
+- Percentage Population Infected Per Country
+- Deaths by Continent
+- Global Vaccinations VS Cases Over Time
