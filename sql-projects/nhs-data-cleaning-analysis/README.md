@@ -8,7 +8,9 @@ The project covers data preparation, duplicate removal, missing value handling, 
 
 ## Dataset
 
-This project uses NHS Emergency Department data with fields including:
+This project uses NHS Emergency Department data. Source: https://www.kaggle.com/datasets/treich/ae-attendances-england
+
+Data fields include:
 
 * date
 * hospital name
