@@ -17,7 +17,8 @@ A collection of data analytics projects demonstrating skills in Python, SQL, dat
 
 # Projects
 
-## Large-Scale Data Cleaning and Analytics Pipeline (Python)
+## Large-Scale Data Cleaning and Analytics Pipeline (Python
+## Data Source: https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running
 
 ### Overview
 Processed and analysed a 7.4M+ record endurance race dataset using Python.
