@@ -1,90 +1,44 @@
 # Data Analytics Portfolio
 
-A collection of data analytics projects demonstrating skills in Python, SQL, data cleaning, transformation, validation, and exploratory analysis.
+This repository showcases a collection of data analytics projects built with **Python, PostgreSQL, and Tableau**. Each project focuses on data cleaning, transformation, exploratory analysis, and visualisation using real-world datasets.
 
-## Skills Demonstrated
+The goal of this portfolio is to demonstrate practical analytical skills, clear project structure, and the ability to turn raw data into useful insights.
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- PostgreSQL / SQL
-- Data Cleaning & Validation
-- Data Transformation
-- Exploratory Data Analysis
-- Data Visualisation
-- Relational Database Design
-- Analytical Queries (CTEs, Views, Window Functions)
+## Tech Stack
 
----
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* PostgreSQL
+* Tableau
 
-# Projects
+## Projects
 
-## Large-Scale Data Cleaning and Analytics Pipeline (Python
-## Data Source: https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running
+### Ultra Marathon Data Analysis
 
-### Overview
-Processed and analysed a 7.4M+ record endurance race dataset using Python.
+A Python notebook that explores ultra-marathon race results using Pandas, NumPy, and Matplotlib. The project includes data cleaning, feature engineering, filtering, summary statistics, and visualisation of race speed by gender.
 
-### Key Skills Demonstrated
-- Data extraction from compressed datasets
-- Data cleaning and quality checks
-- Handling missing values and inconsistent formats
-- Feature engineering
-- Statistical analysis
-- Data visualisation
+### COVID-19 Data Exploration with PostgreSQL
 
-### Key Tasks
-- Standardised race distance and performance variables
-- Converted time formats into usable analytical features
-- Identified and removed anomalous records
-- Compared performance trends across athlete demographics
+A PostgreSQL project that explores global COVID-19 deaths and vaccination trends using the Our World in Data dataset. The project uses joins, views, CTEs, window functions, and aggregations. A Tableau dashboard was also created to visualise the results.
 
-Technologies:
-Python, Pandas, NumPy, Matplotlib, Seaborn
+### PostgreSQL Data Quality Cleaning
 
+A PostgreSQL data cleaning project using a real-world Nashville housing dataset. The project focuses on handling missing values, standardising address fields, converting data types, removing duplicates, and preparing the dataset for analysis.
 
----
+### NHS Emergency Department Data Analysis with PostgreSQL 
 
-## COVID Health Data Exploration (PostgreSQL)
+A PostgreSQL project that explores NHS Emergency Department performance data. The analysis covers yearly trends, hospital comparisons, four-hour performance, and long-wait admissions.
 
-### Overview
-Built a PostgreSQL analytical database to explore global COVID-19 cases, deaths, and vaccination trends.
+## What this portfolio shows
 
-### Key Skills Demonstrated
-- SQL data extraction and transformation
-- Relational database queries
-- Joins
-- Views
-- CTEs
-- Window functions
+* Practical Python and PostgreSQL skills
+* Data cleaning and transformation
+* Exploratory analysis and reporting
+* Dashboarding and visualisation
+* Clear project organisation for GitHub
 
-### Key Analysis
-- Infection and death rates by country
-- Vaccination progress over time
-- Population vaccination percentages
-- Longitudinal health trends
+## Notes
 
-Technologies:
-PostgreSQL, SQL
-
-
----
-
-## Nashville Housing Data Cleaning (PostgreSQL)
-
-### Overview
-Developed SQL workflows to clean and prepare a real-world housing dataset for analysis.
-
-### Key Skills Demonstrated
-- Data quality checks
-- Missing value handling
-- Duplicate detection
-- Data standardisation
-- Data transformation
-
-### Key Tasks
-- Filled missing records using self-joins
-- Standardised categorical fields
-- Split address fields into structured columns
-- Removed duplicate records using window functions
-
-Technologies:
-PostgreSQL, SQL
+This repository is a portfolio of ongoing learning and data analytics work.
