@@ -1,10 +1,10 @@
 # Data Analytics Portfolio
 
-This repository showcases a collection of data analytics projects built with **Python, PostgreSQL, and Tableau**. Each project focuses on data cleaning, transformation, exploratory analysis, and visualisation using real-world datasets.
+This repository showcases a collection of data analytics projects built with Python, PostgreSQL, and Tableau. Each project focuses on data cleaning, transformation, exploratory analysis, and visualisation using real-world datasets.
 
-The goal of this portfolio is to demonstrate practical analytical skills, clear project structure, and the ability to turn raw data into useful insights.
+The goal of this portfolio is to demonstrate practical analytical skills, clear project organisation, and the ability to turn raw data into meaningful insights.
 
-## Tech Stack
+## Skills
 
 * Python
 * Pandas
@@ -19,7 +19,7 @@ The goal of this portfolio is to demonstrate practical analytical skills, clear 
 
 A PostgreSQL project that explores global COVID-19 deaths and vaccination trends using the Our World in Data dataset. The project uses joins, views, CTEs, window functions, and aggregations. A Tableau dashboard was also created to visualise the results.
 
-### NHS Emergency Department Data Analysis with PostgreSQL 
+### NHS Emergency Department Data Analysis with PostgreSQL
 
 A PostgreSQL project that explores NHS Emergency Department performance data. The analysis covers yearly trends, hospital comparisons, four-hour performance, and long-wait admissions.
 
@@ -31,7 +31,7 @@ A PostgreSQL data cleaning project using a real-world Nashville housing dataset.
 
 A Python notebook that explores ultra-marathon race results using Pandas, NumPy, and Matplotlib. The project includes data cleaning, feature engineering, filtering, summary statistics, and visualisation of race speed by gender.
 
-## What this portfolio shows
+## What This Portfolio Demonstrates
 
 * Practical Python and PostgreSQL skills
 * Data cleaning and transformation
@@ -41,4 +41,4 @@ A Python notebook that explores ultra-marathon race results using Pandas, NumPy,
 
 ## Notes
 
-This repository is a portfolio of ongoing learning and data analytics work.
+This repository reflects ongoing learning and data analytics work, with a focus on building strong, job-ready analytical skills.
