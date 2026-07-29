@@ -46,7 +46,7 @@ This rule is a project assumption and should be confirmed against source-system 
 
 ### Organisation names
 
-The script standardises common abbreviations and punctuation. It deliberately does **not** automatically replace `NHS Trust` with `NHS FT`, because NHS Trusts and NHS Foundation Trusts are different legal organisation types. A verified reference table should be used for organisational mapping.
+The script standardises common abbreviations and punctuation. It deliberately does **not** automatically replace `NHS Trust` with `NHS FT`, because NHS Trusts and NHS Foundation Trusts are different legal organisation types. 
 
 ## Analysis included
 
@@ -70,7 +70,6 @@ The project checks:
 * negative numerical values
 * successful removal of duplicate keys
 
-See `docs/validation\_log.md` for the documented validation checklist.
 
 ## Portfolio summary
 
